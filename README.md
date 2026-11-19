@@ -31,5 +31,4 @@ Figma, Adobe Firefly, Adobe Premiere Pro, ChatGPT
 <img width="2172" height="724" alt="ui-flow-overview" src="https://github.com/user-attachments/assets/3e33e13e-32c0-43ec-a2d3-00fc0e398aad" />
 
 
-[ForWON-final.pdf](https://github.com/user-attachments/files/35061927/ForWON-final.pdf)
 
