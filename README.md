@@ -1,5 +1,3 @@
-<img width="1586" height="992" alt="ChatGPT 이미지 2026년 11월 19일 오전 11_13_43" src="https://github.com/user-attachments/assets/3d0334d5-d198-40ac-b124-0ba0457180c4" />
-[ForWON-final.pdf](https://github.com/user-attachments/files/35061921/ForWON-final.pdf)
 ### 프로젝트 개요
 외국인 고객이 은행 앱에서 겪는 언어와 금융 절차의 어려움을 줄이기 위한 ‘스마트 화면 가이드 챗봇’ 프로젝트다. AI가 고객의 막힘을 감지하고, 필요한 화면을 Spotlight로 강조해 안내하며, 해결되지 않으면 이용 기록과 함께 상담원에게 연결하는 서비스를 기획했다. 5인 팀으로 3일간 진행했으며 프로젝트를 완성했다.
 
@@ -28,6 +26,8 @@
 
 ### 사용 도구
 Figma, Adobe Firefly, Adobe Premiere Pro, ChatGPT
+<img width="1586" height="992" alt="ChatGPT 이미지 2026년 11월 19일 오전 11_13_43" src="https://github.com/user-attachments/assets/3d0334d5-d198-40ac-b124-0ba0457180c4" />
+[ForWON-final.pdf](https://github.com/user-attachments/files/35061921/ForWON-final.pdf)
 <img width="2172" height="724" alt="ui-flow-overview" src="https://github.com/user-attachments/assets/3e33e13e-32c0-43ec-a2d3-00fc0e398aad" />
 
 
