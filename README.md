@@ -1,3 +1,4 @@
+[ForWON-final.pdf](https://github.com/user-attachments/files/35061921/ForWON-final.pdf)
 ### 프로젝트 개요
 외국인 고객이 은행 앱에서 겪는 언어와 금융 절차의 어려움을 줄이기 위한 ‘스마트 화면 가이드 챗봇’ 프로젝트다. AI가 고객의 막힘을 감지하고, 필요한 화면을 Spotlight로 강조해 안내하며, 해결되지 않으면 이용 기록과 함께 상담원에게 연결하는 서비스를 기획했다. 5인 팀으로 3일간 진행했으며 프로젝트를 완성했다.
 
@@ -26,11 +27,8 @@
 
 ### 사용 도구
 Figma, Adobe Firefly, Adobe Premiere Pro, ChatGPT
+<img width="2172" height="724" alt="ui-flow-overview" src="https://github.com/user-attachments/assets/3e33e13e-32c0-43ec-a2d3-00fc0e398aad" />
 
 
-<img width="503" height="843" alt="image (16)" src="https://github.com/user-attachments/assets/f14fabc8-ffda-45fc-b3e4-cc4f72ef0836" />
-<img width="608" height="976" alt="스크린샷 2026-10-27 오후 7 34 08" src="https://github.com/user-attachments/assets/36803196-2b5d-4dd3-a34c-1f582ee3f418" />
-<img width="622" height="1014" alt="스크린샷 2026-10-27 오후 7 33 56" src="https://github.com/user-attachments/assets/65e04ad9-5c26-4a8d-9d23-6d7dc9478bbb" />
-<img width="576" height="1010" alt="스크린샷 2026-10-27 오후 7 33 49" src="https://github.com/user-attachments/assets/9199ca5c-ca35-44f5-b941-3ae665f1e390" />
-<img width="670" height="986" alt="스크린샷 2026-10-27 오후 7 33 42" src="https://github.com/user-attachments/assets/991b612b-5716-4eed-adaa-674a627c650d" />
-<img width="652" height="1000" alt="스크린샷 2026-10-27 오후 7 33 36" src="https://github.com/user-attachments/assets/d6fee4d3-a1fa-40da-b362-e15566584fab" />
+[ForWON-final.pdf](https://github.com/user-attachments/files/35061927/ForWON-final.pdf)
+
